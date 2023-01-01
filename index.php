@@ -8,7 +8,7 @@
 </form>
 </head>
 <body>
-<form method="post" action="vito.php">
+<form method="post" action="index.php">
 Nama : <input type="text" name = "nama"> <br> 
 Tanggal lahir : <input type="number" name="tgllhr"> <br>
 Bulan lahir : <input type="number" name="blnlhr"> <br>
